@@ -1,4 +1,7 @@
 # Superstore Sales Dashboard in Power BI
+![1_Niharika](https://github.com/Niharika-Patil9/SuperStore-Sales-Dashboard/assets/103222259/7f267387-bc2e-4315-8562-d515077af741)
+![Overvie2_NiharikaPatil](https://github.com/Niharika-Patil9/SuperStore-Sales-Dashboard/assets/103222259/b29ea66e-88f9-4479-8c6f-7d67f2cc4c1c)
+
 
 ## Description
 
