@@ -18,14 +18,6 @@ The dataset used for this dashboard contains historical sales data, including in
 - Customer segmentation analysis to identify high-value customers.
 - Product performance analysis to identify best-selling products and underperforming items.
 
-## Getting Started
-To access and explore the Superstore Sales Dashboard in Power BI, follow these steps:
-
-1. Download and install Power BI Desktop (if you don't have it already) from the official website: https://powerbi.microsoft.com/desktop/
-2. Clone or download this repository to your local machine.
-3. Open Power BI Desktop and open the .pbix file from the repository.
-4. The dashboard should load with the sample data, allowing you to interact with the visualizations.
-
 ## Dashboard Usage
 
 The Superstore Sales Dashboard provides several interactive visualizations and reports to help you explore the sales data effectively. Here are some key functionalities:
