@@ -1,14 +1,11 @@
 # Superstore Sales Dashboard in Power BI
-![1_Niharika](https://github.com/Niharika-Patil9/SuperStore-Sales-Dashboard/assets/103222259/7f267387-bc2e-4315-8562-d515077af741)
-![Overvie2_NiharikaPatil](https://github.com/Niharika-Patil9/SuperStore-Sales-Dashboard/assets/103222259/b29ea66e-88f9-4479-8c6f-7d67f2cc4c1c)
-
 
 ## Description
 
 The **Superstore Sales Dashboard** in Power BI is a data visualization project that provides insights and analysis of sales data for Superstore. The dashboard is designed to help stakeholders and decision-makers understand sales performance, trends, and key metrics, enabling data-driven decision-making and business improvements.
 
 ## Dataset
-The dataset used for this dashboard contains historical sales data, including information on product categories, sales revenue, customer demographics, shipping details, and more is taken from Kaggle. 
+The dataset used for this dashboard contains historical sales data, including information on product categories, sales revenue, customer demographics, shipping details, and more is gathered from Kaggle. 
 
 ## Features
 - Interactive visualizations for sales trends over time.
@@ -26,4 +23,6 @@ The Superstore Sales Dashboard provides several interactive visualizations and r
 - Use the slicers and filters to narrow down the data and focus on specific regions, time periods, or product categories.
 - Export the visualizations and reports in various formats for presentations and reports.
 
+![1_Niharika](https://github.com/Niharika-Patil9/SuperStore-Sales-Dashboard/assets/103222259/7f267387-bc2e-4315-8562-d515077af741)
+![Overvie2_NiharikaPatil](https://github.com/Niharika-Patil9/SuperStore-Sales-Dashboard/assets/103222259/b29ea66e-88f9-4479-8c6f-7d67f2cc4c1c)
 
